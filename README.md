@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Tom Ward</h1>
-<h3 align="center">A Fullstack Developer from the UK</h3>
+<h3 align="center">A SOftware Engineer from the UK</h3>
 
 - 🌱 I’m currently learning **JS, MongoDB, Node.js**
 
