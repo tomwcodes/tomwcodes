@@ -1,7 +1,5 @@
-
-preview
 <h1 align="center">Hi 👋, I'm Tom Ward</h1>
-<h3 align="center">A passionate fullstack developer from UK</h3>
+<h3 align="center">A fullstack software engineer from UK</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomwcodes&label=Profile%20views&color=0e75b6&style=flat" alt="tomwcodes" /> </p>
 
