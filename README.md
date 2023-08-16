@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tom Ward</h1>
 <h3 align="center">A Software Engineer working in the UK</h3>
 
-- 🌱 I’m currently learning **JS, MongoDB, Node.js**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **tomwcodes@gmail.com**
 
