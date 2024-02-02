@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tom Ward</h1>
 <h3 align="center">An outdoor guide that creates websites and apps</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **JS**
 
 - 📫 How to reach me **tomwcodes@gmail.com**
 
